@@ -1,0 +1,12 @@
+{
+  "name": "pam-1-guilherme-santos",
+  "version": "1.0.0",
+  "description": "Repositorio para as aulas de Programaçao Mobile com o professor Joao Siles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
